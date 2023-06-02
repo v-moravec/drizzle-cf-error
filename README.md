@@ -8,6 +8,8 @@ Make sure to install the dependencies:
 yarn install
 ```
 
+Add your environment variables to `.env`
+
 ## CF Error
 
 ```bash
